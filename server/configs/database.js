@@ -5,9 +5,9 @@ const config = {
     client: "mysql2",
     connection: {
       host: "localhost",
-      database: "chat_server",
-      user: "root",
-      password: "honk2004",
+      database: "your_db",
+      user: "your_user",
+      password: "your_password",
     },
   },
 };
